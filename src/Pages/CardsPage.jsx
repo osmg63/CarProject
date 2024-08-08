@@ -12,32 +12,32 @@ const cardData = [
   {
     title: 'Gaziantep-Kahramanmaraş',
     description: 'Gaziantep ile Kahramanmaraş arasında hızlı ve güvenilir oto kurtarma hizmeti sunuyoruz.',
-    image: '/MyProject/Pictures/foto1.jpg',
+    image: '/CarProject/Pictures/foto1.jpg',
   },
   {
     title: 'Gaziantep-Osmaniye',
     description: 'Gaziantep ile Osmaniye arasında 7/24 oto kurtarma hizmetimizden yararlanabilirsiniz.',
-    image: '/MyProject/Pictures/foto1.jpg',
+    image: '/CarProject/Pictures/foto1.jpg',
   },
   {
     title: 'Gaziantep-Şanlıurfa',
     description: 'Gaziantep ile Şanlıurfa arasında profesyonel oto kurtarma hizmeti sağlıyoruz.',
-    image: '/MyProject/Pictures/foto1.jpg',
+    image: '/CarProject/Pictures/foto1.jpg',
   },
   {
     title: 'Gaziantep-Adana',
     description: 'Gaziantep ile Adana arasında her türlü oto kurtarma ihtiyacınız için buradayız.',
-    image: '/MyProject/Pictures/foto1.jpg',
+    image: '/CarProject/Pictures/foto1.jpg',
   },
   {
     title: 'Gaziantep-Konya',
     description: 'Gaziantep ile Konya arasında geniş kapsamlı oto kurtarma hizmetlerimiz mevcuttur.',
-    image: '/MyProject/Pictures/foto1.jpg',
+    image: '/CarProject/Pictures/foto1.jpg',
   },
   {
     title: 'Gaziantep-Diyarbakır',
     description: 'Gaziantep ile Diyarbakır arasında hızlı ve güvenli oto kurtarma hizmeti sunuyoruz.',
-    image: '/MyProject/Pictures/foto1.jpg',
+    image: '/CarProject/Pictures/foto1.jpg',
   },
 ];
 
