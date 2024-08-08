@@ -38,7 +38,7 @@ function MyNavbar() {
           <Button
             color='inherit'
             component={Link}
-            to='/MyProject/'
+            to='/CarProject/'
             sx={{
               mr: 2,
               color: 'black',
@@ -52,7 +52,7 @@ function MyNavbar() {
           <Button
             color='inherit'
             component={Link}
-            to='/MyProject/HizmetBolgelerimiz'
+            to='/CarProject/HizmetBolgelerimiz'
             sx={{
               mr: 2,
               color: 'black',
@@ -89,10 +89,10 @@ function MyNavbar() {
             onClose={closeMenu}
             sx={{ display: { xs: 'flex', md: 'none' }, mt: 2 }}
           >
-            <MenuItem component={Link} to='/MyProject/' onClick={closeMenu}>
+            <MenuItem component={Link} to='/CarProject/' onClick={closeMenu}>
               Anasayfa
             </MenuItem>
-            <MenuItem component={Link} to='/MyProject/HizmetBolgelerimiz' onClick={closeMenu}>
+            <MenuItem component={Link} to='/CarProject/HizmetBolgelerimiz' onClick={closeMenu}>
               Hizmet Bölgelerimiz
             </MenuItem>
             <MenuItem component='a' href='tel:05432071130' onClick={closeMenu}>
