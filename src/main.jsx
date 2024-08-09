@@ -6,12 +6,12 @@ import NotFoundPage from './Pages/NotFoundPage';
 import CardsPage from './Pages/CardsPage';
 const router = createBrowserRouter([
   {
-    path: '/CarProject/',
+    path: '/',
     element: <Home />,
 
   },
   {
-    path: '/CarProject/HizmetBolgelerimiz',
+    path: '/HizmetBolgelerimiz',
     element: <CardsPage />,
   },
   {
