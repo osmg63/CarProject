@@ -30,7 +30,7 @@ function MyNavbar() {
             fontSize: { xs: '1rem', md: '1.5rem' } // Küçük ekranlarda yazı boyutu daha küçük
           }}
         >
-          GÜMÜŞ OTO KURTARMA
+          GAZİANTEP OTO KURTARMA
         </Typography>
 
         {/* Menü Butonları */}
@@ -112,7 +112,7 @@ function MyNavbar() {
             fontSize: { xs: '1rem', md: '1.5rem' } // Küçük ekranlarda yazı boyutu daha küçük
           }}
         >
-          GÜMÜŞ OTO KURTARMA
+          GAZIANTEP OTO KURTARMA
         </Typography>
         <Button
           color='inherit'
