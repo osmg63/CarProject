@@ -12,10 +12,10 @@ function Home() {
         <Box className="hero-section">
           <Box className="hero-content">
             <Typography variant="h5" component="h1" gutterBottom className="hero-title">
-              GÜMÜŞ OTO KURTARMA
+              Gaziantep OTO KURTARMA
             </Typography>
-            <Typography variant="h6" component="p" gutterBottom className="hero-subtitle">
-              Oto kurtarma hizmetlerinde güvenilir ortağınız
+            <Typography variant="h6" component="h2" gutterBottom className="hero-subtitle">
+             Gaziantep oto cekici,Sahinbey oto kurtarma
             </Typography>
             <Button
               variant="contained"
